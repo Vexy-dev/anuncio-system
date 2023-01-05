@@ -1,5 +1,5 @@
 //Sistema(COMANDO) de /anuncioserver identico Brasil Play Shox, melhorado por: Vexy#3333 and credito: Brazz#1533
-//Adapte o sistema de acordo com a sua gamemode, pois eu refiz baseado em uma gamemode minha de testes, então pode conter definições diferentes da sua, portanto "Adapte", By: Vexy and Braz.
+//Adapte o sistema de acordo com a sua gamemode, pois eu refiz baseado em uma gamemode minha de testes, então pode conter definições diferentes da sua, portanto "Adapte", By: Vexy and Brazz.
 
 //------(INCLUDES)--------
 #include <a_samp>
